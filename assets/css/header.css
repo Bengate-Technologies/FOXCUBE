@@ -37,7 +37,7 @@
 .menu-bg {
 	-webkit-transition: all 0.3s ease-out;
 	transition: all 0.3s ease-out;
-	background: #fff;
+	background:#fc6404 ;
 	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
 }
 .navigation{
@@ -71,7 +71,7 @@
 	content: '';
 	width: 100%;
 	height: 4px;
-	background:white;
+	background:rgb(73, 21, 21);
 }
 .header ul {
 	float: right;
@@ -196,11 +196,11 @@
 		background: white;
 	}
 	.menu{
-		border-bottom: 4px solid #fff;
-    border-top: 4px solid #fff
+		border-bottom: 4px solid #fc6404;
+    border-top: 4px solid #fc6404;
 	}
 	.menu:after{
-		background: #fff;
+		background: #fc6404;
 	}
 	
 	.menu-bg .navigation > ul > li > a{
