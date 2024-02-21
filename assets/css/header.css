@@ -2,7 +2,7 @@
 /* HEADER         ||---------------------------- */
 /*-------------------------------------------------------------------------------------------*/
 .header {
-	background: #fff;
+	background: #fc6404;
 	position: fixed;
 	left: 0;
 	top: 0;
@@ -18,7 +18,7 @@
 	content: '';
 	width: 50%;
 	height:100%;
-	background:#fc6404;
+	background:#eae6e4;
 	z-index: -1;
 	margin-left: -250px;
 }
