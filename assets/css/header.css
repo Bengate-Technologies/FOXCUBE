@@ -18,7 +18,7 @@
 	content: '';
 	width: 50%;
 	height:100%;
-	background:#eae6e4;
+	background:white;
 	z-index: -1;
 	margin-left: -250px;
 }
@@ -29,7 +29,7 @@
     content: '';
     width: 60px;
     height: 100%;
-    background: #fc6404;
+    background:white ;
     z-index: -1;
     margin-left: -281px;
     transform: skew(-23deg);
